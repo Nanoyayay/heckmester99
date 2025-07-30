@@ -1,0 +1,99 @@
+* YOU BOOT UP...  
+* the terminal’s cold. darker than usual.
+
+        ██████╗░░█████╗░░█████╗░██╗░░██╗
+        ██╔══██╗██╔══██╗██╔══██╗██║░░██║
+        ██████╔╝██║░░██║██║░░██║███████║
+        ██╔═══╝░██║░░██║██║░░██║██╔══██║
+        ██║░░░░░╚█████╔╝╚█████╔╝██║░░██║
+        ╚═╝░░░░░░╚════╝░░╚════╝░╚═╝░░╚═╝
+
+          >> H E C K M E S T E R  9 9 <<
+             a nano curl adventure
+
+* you: "...where the heck am i?"
+
+A bug creeps out of the code...
+               _
+             _( )_
+            /     \
+           |  °  ° |   <-- the bug
+           \__^__/  
+
+it screeches: “LINE 666: UNDEFINED SOUL”
+
+---
+
+what will you do?
+
+[1] try to FIGHT it
+[2] show MERCY
+[3] unplug your PC
+[4] curl deeper...
+
+you try to FIGHT...
+
+* you SLAP the bug with raw keyboard energy.
+
+bug: “!!SEGMENTATION FAULT!!”
+
+...but it’s not enough.
+
+the terminal shakes. reality glitches.
+
+...
+
+...
+
+        ░░░░░░░░░░░░░░░░░░░░
+       ░ ERROR: 0xDEADBEEF ░
+        ░░░░░░░░░░░░░░░░░░░░
+
+a new entity appears.
+
+       ______________
+      |   HELLO :)   |
+      |______________|
+           \ (°-°) /   <-- corrupted clippy
+            \___/
+
+“looks like you’re trying to fight fate.”
+
+clippy begins typing **for you**.
+
+---
+
+* your options are gone.
+
+* you feel your soul being compressed...
+
+...
+
+...
+
+...
+
+but then you do the unthinkable.
+
+> sudo rm -rf /bug
+
+the bug SCREECHES.
+
+the lights go out.
+
+your PC fan slows.
+
+...
+
+...
+
+YOU WIN.
+
+...
+
+          THANKS FOR PLAYING
+        H E C K M E S T E R  9 9
+
+   made by nano, powered by curl ☠️
+
+curl again... if you dare.
